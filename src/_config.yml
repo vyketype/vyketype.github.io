@@ -28,7 +28,8 @@ twitter_username: vPrototype_
 github_username:  vyketype
 
 # Build settings
-remote_theme: poole/hyde
+# remote_theme: poole/hyde
+theme: minima
 plugins:
   - jekyll-feed
 
