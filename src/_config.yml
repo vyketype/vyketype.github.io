@@ -29,6 +29,7 @@ github_username:  vyketype
 
 # Build settings
 theme: minima
+remote_theme: poole/hyde
 plugins:
   - jekyll-feed
 
